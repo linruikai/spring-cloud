@@ -13,6 +13,7 @@
         <module name="provider" />
         <module name="provider_3" />
         <module name="server" />
+        <module name="server2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +27,7 @@
       <module name="provider_2" target="1.8" />
       <module name="provider_3" target="1.8" />
       <module name="server" target="1.8" />
+      <module name="server2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

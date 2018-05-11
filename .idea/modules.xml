@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/privoder_2/privoder_2.iml" filepath="$PROJECT_DIR$/privoder_2/privoder_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider_1/provider.iml" filepath="$PROJECT_DIR$/provider_1/provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server2/server2.iml" filepath="$PROJECT_DIR$/server2/server2.iml" />
     </modules>
   </component>
 </project>

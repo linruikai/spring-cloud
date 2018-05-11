@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/provider_3/pom.xml" />
         <option value="$PROJECT_DIR$/feign_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/privoder_2/pom.xml" />
+        <option value="$PROJECT_DIR$/server2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
